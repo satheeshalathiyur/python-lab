@@ -12,3 +12,7 @@ Linked list:
     Advantage:
     a) Dynamic size
     b) ease of insertion/deletion
+    c) memory allocation is runtime, but in array its compile time
+
+    Disadvantage:
+    a) findout an element have to traverse from head node that means random access is not possible
