@@ -1,0 +1,14 @@
+Linked list:
+    Linked list is a linear data structure, in which elements are not stored in continuous memory locations
+    each element in linked list is called node. a node  consists of data part and address which is pointed
+    to another node
+
+    Advantage over array:
+
+    a) array is fixed memory size, there have chances to loss of memory if there have no enough element in the 
+    array
+    b) inserting an element to in between is little bit expensive
+
+    Advantage:
+    a) Dynamic size
+    b) ease of insertion/deletion
