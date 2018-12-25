@@ -1,0 +1,68 @@
+AWS Services:
+ -EC2
+ -S3
+ -RDS(Relational database)
+ -ROUTE53(dns services with ec2)
+
+-EC2
+    -soloution for computing needs
+    -run an application as instances
+    -instances running elastic nature
+    -amazon machine image(AMI) is 
+     os+software used on an ec2 instance
+    - elastic block storage is related
+      with the instances
+     security groups
+     -----------------
+     ssh into ec2 instance
+     allow access bet'n ec2 instances
+     allow access to db
+     accept http request
+
+simple storage service(s3)
+  -used by cloud watch,elastic bean etc
+maximum file size 5 tb
+  -trigger events 
+
+RELATIONAL DATABASE SERVICE
+  mysql,postgressql etc
+
+ROUTE 53
+  -For dns management
+  
+DATABASES:
+
+elastic beanstalk
+---------------
+easy deployment with varioius tools
+set it and forget conf
+easily monitor and logging
+provide test and prod environment
+
+Dynamodb
+--------
+-Nosql databases
+-25 gb free
+
+Redshift
+--------
+-data ware house service
+-security provides
+-no public ip
+
+virtual private cloud
+----------------------
+soln for your n/w needs
+-create multiple subnet
+-private and public subnet
+-free
+
+cloudwatch
+----------
+-monitoring services
+-acting on alerts
+
+Cloudfront
+----------
+
+
